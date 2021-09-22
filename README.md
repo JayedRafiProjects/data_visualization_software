@@ -13,8 +13,10 @@ For more information read <a href = "">report</a>.<br/><br/>
 </p>
 
 <p>
-  <div class="row">
-  <div class="column"><img src="https://github.com/JayedRafiProjects/data_visualization_software/blob/main/line_chart.png" alt="image"></div>
-  <div class="column"><img src="https://github.com/JayedRafiProjects/data_visualization_software/blob/main/column_chart.png" alt="image"></div>
-  </div>
+  <table>
+       <tr>
+      <th><img src="https://github.com/JayedRafiProjects/data_visualization_software/blob/main/line_chart.png" alt="image"></th>
+      <th><img src="https://github.com/JayedRafiProjects/data_visualization_software/blob/main/column_chart.png" alt="image"></th>
+      </tr>
+  </table>
 </p>
