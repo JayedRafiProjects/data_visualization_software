@@ -3,7 +3,7 @@
 <p>This is project is a data visualization software made using JAVA programming language and Standard Drawing Library (StdDraw.java). It can visualize data in two different styles.<br/>
 
   <li>Line chart</li>
-  <li>Column chart</li>
+  <li>Column chart</li><br/>
 
 Also a fun feature about this project, it can save the chart in an image.jpg format!! <br/>
 The program has an optimization feature that enables the user to use any values (+) they want and it automatically optimizes the values into the screen. <br/>
