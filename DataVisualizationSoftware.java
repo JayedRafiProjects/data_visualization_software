@@ -3,7 +3,7 @@
  * Project: Data visualization software
  * Language: Java
  * Library: StdDraw.java
- * Date: August 2021
+ * Date: September 2021
  * 
  * Dev: Jayed Rafi
  *
