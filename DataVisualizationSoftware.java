@@ -1,10 +1,12 @@
 /*******************************
  * 
- * Data Visualization Software
+ * Project: Data visualization software
  * Language: Java
- * Creator: Jayed Rafi
+ * Library: StdDraw.java
  * Date: August 2021
  * 
+ * Dev: Jayed Rafi
+ *
 *******************************/
 
 public class DataVisualizationSoftware
