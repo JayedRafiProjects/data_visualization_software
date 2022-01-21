@@ -9,7 +9,7 @@ Also a fun feature about this project, it can save the chart in an image.jpg for
 The program has an optimization feature that enables the user to use any values (+) they want and it automatically optimizes the values into the screen. <br/>
 <strong>Some implication fields:</strong> Statistical Research and Data Visualization<br/>
 <strong>Associated language and technologies:</strong> JAVA, Standard Drawing Library (StdDraw.java)<br/><br/>
-For more information don't forget to watch the <a href ="http://jayedrafi.com/data-visualization-software/">instruction video</a>! <br/><br/>
+For more information don't forget to watch the <a href ="https://www.youtube.com/watch?v=hnqvL6rmEA0&ab_channel=JayedRafi">instruction video</a>! <br/><br/>
 </p>
 
 <p>
